@@ -15,10 +15,7 @@
 </ul>
 
 <hr>
-<h3 id="my-github-stats"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">🐱我的 Github 统计数据：</font></font></h3>
-<p><img src="https://github-readme-stats.vercel.app/api?username=uhaiin&amp;show_icons=true&amp;title_color=ffc857&amp;icon_color=8ac926&amp;text_color=daf7dc&amp;bg_color=151515&amp;hide=%5B%22stars%22%5D" alt="Apoorv 的 github 统计数据">
-<a href="https://github.com/anuraghazra/github-readme-stats"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=uhaiin&amp;layout=compact&amp;text_color=daf7dc&amp;bg_color=151515" alt="顶级语言"></a></p>
-<!--START_SECTION:waka-->
+
 <p><strong><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">我是一个夜晚🦉</font></font></strong></p>
 <pre class="astro-code github-dark" style="background-color:#24292e;color:#e1e4e8; overflow-x: auto;" tabindex="0"><code><span class="line"><span>🌞 Morning    41 commits     ███░░░░░░░░░░░░░░░░░░░░░░   12.65% </span></span>
 <span class="line"><span>🌆 Daytime    83 commits     ██████░░░░░░░░░░░░░░░░░░░   25.62% </span></span>
