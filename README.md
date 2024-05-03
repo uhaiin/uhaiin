@@ -5,13 +5,8 @@
 <ul>
 <li><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">🏦 我目前在一家基于医疗保健的初创公司工作，我使用 spring boot 和 mysql 制作金融应用程序
 </font></font><img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"></li>
-<li><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">🤔 我每天都</font><font style="vertical-align: inherit;">用</font></font><code>.java</code><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">,,</font></font><code> .py</code><font style="vertical-align: inherit;"></font><code>.sql</code></li>
-<li><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">🌱 我目前正在学习 docker 和 kubernetes</font></font></li>
 <li><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">💬 跟我聊聊蟋蟀、蟒蛇（这两种都不是任何昆虫或动物）和硅谷</font></font></li>
 <li><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">😄 代词：他/他</font></font></li>
-<li><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">📝 我经常写文章</font></font><a href="https://uhaiin.tech/"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">哈希节点</font></font></a><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">（之前在</font></font><a href="https://uhaiin133.blogspot.com/"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">博主</font></font></a><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">）</font></font></li>
-<li><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">👯 我们可以连接</font></font><a href="https://www.chess.com/member/sweetxcyanide"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">国际象棋网</font></font></a><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">♟ 玩一些游戏</font></font></li>
-<li><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">⚡ 有趣的事实：我是法国人</font></font></li>
 </ul>
 
 <hr>
