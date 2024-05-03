@@ -11,6 +11,7 @@
 
 <hr>
 
+<h3 id="-about-me"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">🤵 关于我：</font></font></h3>
 <ul>
 <li><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">🏦 我目前在一家基于医疗保健的初创公司工作，我使用 spring boot 和 mysql 制作金融应用程序
 </font></font><img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"></li>
