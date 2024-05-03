@@ -31,7 +31,4 @@
 <span class="line"><span>Saturday     70 commits     ██████░░░░░░░░░░░░░░░░░░░   23.81% </span></span>
 <span class="line"><span>Sunday       91 commits     ███████░░░░░░░░░░░░░░░░░░   30.95%</span></span>
 <span class="line"><span></span></span></code></pre>
-<!--END_SECTION:waka-->
-<p><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">⏳</font></font><strong><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">年份进度</font></font></strong><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">{ ███████████████████████████ } 90.17 % 截至 ⏰ 26-11-2020。</font></font></p>
 <hr>
-<h3 id="-my-latest-blog-posts"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">📕 我最新的博客文章：</font></font></h3>
