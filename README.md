@@ -1,29 +1,48 @@
-<h1 id="hi-there"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">你好呀</font></font><img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29px"></h1>
-
-<p><img src="https://camo.githubusercontent.com/992babdffd8c74a1502de375fbdf7e4d54773242/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f53576f536b4e36447854737a71494b4571762f67697068792e676966" alt=""></p>
-<h3 id="-about-me"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">🤵 关于我：</font></font></h3>
-<ul>
-<li><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">🏦 我目前在一家基于医疗保健的初创公司工作，我使用 spring boot 和 mysql 制作金融应用程序
-</font></font><img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"></li>
-<li><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">💬 跟我聊聊蟋蟀、蟒蛇（这两种都不是任何昆虫或动物）和硅谷</font></font></li>
-<li><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">😄 代词：他/他</font></font></li>
-</ul>
-
+  <pre class="astro-code github-dark" style="background-color:#24292e;color:#e1e4e8; overflow-x: auto;" tabindex="0"><code><span class="line"><span style="color:#F97583">class</span><span style="color:#B392F0"> ReadMe</span><span style="color:#E1E4E8">:</span></span>
+<span class="line"><span style="color:#F97583">    def</span><span style="color:#79B8FF"> __init__</span><span style="color:#E1E4E8">(self, username</span><span style="color:#F97583">=</span><span style="color:#9ECBFF">"israelias"</span><span style="color:#E1E4E8">, year</span><span style="color:#F97583">=</span><span style="color:#79B8FF">2020</span><span style="color:#E1E4E8">):</span></span>
+<span class="line"><span style="color:#79B8FF">        self</span><span style="color:#E1E4E8">.username </span><span style="color:#F97583">=</span><span style="color:#E1E4E8"> username</span></span>
+<span class="line"><span style="color:#79B8FF">        self</span><span style="color:#E1E4E8">.name </span><span style="color:#F97583">=</span><span style="color:#9ECBFF"> 'Joem Elias Sanez'</span></span>
+<span class="line"><span style="color:#79B8FF">        self</span><span style="color:#E1E4E8">.education </span><span style="color:#F97583">=</span><span style="color:#E1E4E8"> {</span></span>
+<span class="line"><span style="color:#9ECBFF">            'programming'</span><span style="color:#E1E4E8">: [</span><span style="color:#9ECBFF">'Full Stack Software Development'</span><span style="color:#E1E4E8">, </span><span style="color:#9ECBFF">'Code Institute'</span><span style="color:#E1E4E8">],</span></span>
+<span class="line"><span style="color:#9ECBFF">            'architecture'</span><span style="color:#E1E4E8">: [</span><span style="color:#9ECBFF">'Master of Architecture'</span><span style="color:#E1E4E8">, </span><span style="color:#9ECBFF">'Columbia University'</span><span style="color:#E1E4E8">],</span></span>
+<span class="line"><span style="color:#9ECBFF">            'art'</span><span style="color:#E1E4E8">: [</span><span style="color:#9ECBFF">'Bachelor of Fine Arts'</span><span style="color:#E1E4E8">, </span><span style="color:#9ECBFF">'Otis College of Art and Design'</span><span style="color:#E1E4E8">]</span></span>
+<span class="line"><span style="color:#E1E4E8">        }</span></span>
+<span class="line"><span style="color:#79B8FF">        self</span><span style="color:#E1E4E8">.employment </span><span style="color:#F97583">=</span><span style="color:#E1E4E8"> {</span></span>
+<span class="line"><span style="color:#9ECBFF">            'developer'</span><span style="color:#E1E4E8">: [</span><span style="color:#9ECBFF">'company'</span><span style="color:#E1E4E8">, </span><span style="color:#9ECBFF">'city'</span><span style="color:#E1E4E8">],</span></span>
+<span class="line"><span style="color:#9ECBFF">            'architect'</span><span style="color:#E1E4E8">: [</span><span style="color:#9ECBFF">'Foster + Partners'</span><span style="color:#E1E4E8">, [</span><span style="color:#9ECBFF">'Singapore'</span><span style="color:#E1E4E8">, </span><span style="color:#9ECBFF">'New York'</span><span style="color:#E1E4E8">]],</span></span>
+<span class="line"><span style="color:#9ECBFF">            'designer'</span><span style="color:#E1E4E8">: [</span><span style="color:#9ECBFF">'Herzog &amp; de Meuron'</span><span style="color:#E1E4E8">, [</span><span style="color:#9ECBFF">'New York'</span><span style="color:#E1E4E8">, </span><span style="color:#9ECBFF">'Basel'</span><span style="color:#E1E4E8">]],</span></span>
+<span class="line"><span style="color:#E1E4E8">        }</span></span>
+<span class="line"></span>
+<span class="line"><span style="color:#F97583">    def</span><span style="color:#B392F0"> doing</span><span style="color:#E1E4E8">(self, now</span><span style="color:#F97583">=</span><span style="color:#79B8FF">2020</span><span style="color:#E1E4E8">):</span></span>
+<span class="line"><span style="color:#E1E4E8">        today </span><span style="color:#F97583">=</span><span style="color:#79B8FF"> self</span><span style="color:#E1E4E8">.year</span></span>
+<span class="line"></span>
+<span class="line"><span style="color:#F97583">        if</span><span style="color:#E1E4E8"> now </span><span style="color:#F97583">&lt;</span><span style="color:#E1E4E8"> today:</span></span>
+<span class="line"><span style="color:#E1E4E8">            experience </span><span style="color:#F97583">=</span><span style="color:#79B8FF"> self</span><span style="color:#E1E4E8">.employment[</span><span style="color:#9ECBFF">'architect'</span><span style="color:#E1E4E8">]</span></span>
+<span class="line"><span style="color:#F97583">            return</span><span style="color:#9ECBFF"> """</span></span>
+<span class="line"><span style="color:#9ECBFF">            I was a design architect with </span><span style="color:#79B8FF">{large_firms}</span><span style="color:#9ECBFF"> in </span><span style="color:#79B8FF">{big_cities}</span><span style="color:#9ECBFF">.</span></span>
+<span class="line"><span style="color:#9ECBFF">            """</span><span style="color:#E1E4E8">.format(</span><span style="color:#FFAB70">large_firms</span><span style="color:#F97583">=</span><span style="color:#E1E4E8">experience[</span><span style="color:#79B8FF">0</span><span style="color:#E1E4E8">], </span><span style="color:#FFAB70">big_cities</span><span style="color:#F97583">=</span><span style="color:#E1E4E8">experience[</span><span style="color:#79B8FF">1</span><span style="color:#E1E4E8">])</span></span>
+<span class="line"></span>
+<span class="line"><span style="color:#F97583">        elif</span><span style="color:#E1E4E8"> now </span><span style="color:#F97583">=</span><span style="color:#E1E4E8"> today:</span></span>
+<span class="line"><span style="color:#E1E4E8">            dream </span><span style="color:#F97583">=</span><span style="color:#79B8FF"> self</span><span style="color:#E1E4E8">.education[</span><span style="color:#9ECBFF">'programming'</span><span style="color:#E1E4E8">]</span></span>
+<span class="line"><span style="color:#F97583">            return</span><span style="color:#9ECBFF"> """</span></span>
+<span class="line"><span style="color:#9ECBFF">            I am currently learning </span><span style="color:#79B8FF">{code}</span><span style="color:#9ECBFF"> at </span><span style="color:#79B8FF">{code_institute}</span><span style="color:#9ECBFF">.</span></span>
+<span class="line"><span style="color:#9ECBFF">            """</span><span style="color:#E1E4E8">.format(</span><span style="color:#FFAB70">code</span><span style="color:#F97583">=</span><span style="color:#E1E4E8">dream[</span><span style="color:#79B8FF">0</span><span style="color:#E1E4E8">], </span><span style="color:#FFAB70">code_institute</span><span style="color:#F97583">=</span><span style="color:#E1E4E8">dream[</span><span style="color:#79B8FF">1</span><span style="color:#E1E4E8">])</span></span>
+<span class="line"></span>
+<span class="line"><span style="color:#F97583">        elif</span><span style="color:#E1E4E8"> now </span><span style="color:#F97583">&gt;</span><span style="color:#E1E4E8"> today:</span></span>
+<span class="line"><span style="color:#E1E4E8">            goal </span><span style="color:#F97583">=</span><span style="color:#79B8FF"> self</span><span style="color:#E1E4E8">.employment[</span><span style="color:#9ECBFF">'developer'</span><span style="color:#E1E4E8">]</span></span>
+<span class="line"><span style="color:#F97583">            return</span><span style="color:#9ECBFF"> """</span></span>
+<span class="line"><span style="color:#9ECBFF">            I am eager to collaborate with </span><span style="color:#79B8FF">{teams}</span><span style="color:#9ECBFF"> on </span><span style="color:#79B8FF">{projects}</span><span style="color:#9ECBFF">.</span></span>
+<span class="line"><span style="color:#9ECBFF">            """</span><span style="color:#E1E4E8">.format(</span><span style="color:#FFAB70">teams</span><span style="color:#F97583">=</span><span style="color:#E1E4E8">goal[</span><span style="color:#79B8FF">0</span><span style="color:#E1E4E8">], </span><span style="color:#FFAB70">projects</span><span style="color:#F97583">=</span><span style="color:#9ECBFF">'software development'</span><span style="color:#E1E4E8">)</span></span>
+<span class="line"><span style="color:#F97583">        else</span><span style="color:#E1E4E8">:</span></span>
+<span class="line"><span style="color:#F97583">            return</span><span style="color:#9ECBFF"> """</span></span>
+<span class="line"><span style="color:#9ECBFF">            ### Hi there 👋</span></span>
+<span class="line"><span style="color:#9ECBFF">            """</span></span>
+<span class="line"><span style="color:#E1E4E8">        </span></span>
+<span class="line"><span style="color:#F97583">    def</span><span style="color:#B392F0"> collaborate</span><span style="color:#E1E4E8">(self, role, organization, location):</span></span>
+<span class="line"><span style="color:#E1E4E8">        opportunity </span><span style="color:#F97583">=</span><span style="color:#79B8FF"> self</span><span style="color:#E1E4E8">.employment</span></span>
+<span class="line"><span style="color:#E1E4E8">        opportunity[role] </span><span style="color:#F97583">=</span><span style="color:#E1E4E8"> [organization, location]</span></span>
+<span class="line"></span>
+<span class="line"><span style="color:#E1E4E8">me </span><span style="color:#F97583">=</span><span style="color:#E1E4E8"> ReadMe(</span><span style="color:#79B8FF">2020</span><span style="color:#E1E4E8">)</span></span></code></pre>
 <hr>
-
-<p><strong><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">我是一个夜晚🦉</font></font></strong></p>
-<pre class="astro-code github-dark" style="background-color:#24292e;color:#e1e4e8; overflow-x: auto;" tabindex="0"><code><span class="line"><span>🌞 Morning    41 commits     ███░░░░░░░░░░░░░░░░░░░░░░   12.65% </span></span>
-<span class="line"><span>🌆 Daytime    83 commits     ██████░░░░░░░░░░░░░░░░░░░   25.62% </span></span>
-<span class="line"><span>🌃 Evening    172 commits    █████████████░░░░░░░░░░░░   53.09% </span></span>
-<span class="line"><span>🌙 Night      28 commits     ██░░░░░░░░░░░░░░░░░░░░░░░   8.64%</span></span>
-<span class="line"><span></span></span></code></pre>
-<p><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">📅</font></font><strong><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">周日我效率最高</font></font></strong></p>
-<pre class="astro-code github-dark" style="background-color:#24292e;color:#e1e4e8; overflow-x: auto;" tabindex="0"><code><span class="line"><span>Monday       55 commits     ████░░░░░░░░░░░░░░░░░░░░░   18.71% </span></span>
-<span class="line"><span>Tuesday      23 commits     ██░░░░░░░░░░░░░░░░░░░░░░░   7.82% </span></span>
-<span class="line"><span>Wednesday    25 commits     ██░░░░░░░░░░░░░░░░░░░░░░░   8.5% </span></span>
-<span class="line"><span>Thursday     14 commits     █░░░░░░░░░░░░░░░░░░░░░░░░   4.76% </span></span>
-<span class="line"><span>Friday       16 commits     █░░░░░░░░░░░░░░░░░░░░░░░░   5.44% </span></span>
-<span class="line"><span>Saturday     70 commits     ██████░░░░░░░░░░░░░░░░░░░   23.81% </span></span>
-<span class="line"><span>Sunday       91 commits     ███████░░░░░░░░░░░░░░░░░░   30.95%</span></span>
-<span class="line"><span></span></span></code></pre>
-<hr>
+<p><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">信用：</font></font><a href="https://github.com/israelias"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">以色列人</font></font></a></p>
+<p><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">最后编辑于: 08/09/2020</font></font></p> 
