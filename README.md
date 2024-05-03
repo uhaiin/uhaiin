@@ -18,23 +18,7 @@
 <li><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">👯 我们可以连接</font></font><a href="https://www.chess.com/member/sweetxcyanide"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">国际象棋网</font></font></a><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">♟ 玩一些游戏</font></font></li>
 <li><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">⚡ 有趣的事实：我是法国人</font></font></li>
 </ul>
-<p align="center">
-<img src="https://devicons.github.io/devicon/devicon.git/icons/java/java-original-wordmark.svg" alt="爪哇" width="55" height="55"> 
-<img src="https://devicons.github.io/devicon/devicon.git/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="55" height="60"> 
-<img src="https://devicons.github.io/devicon/devicon.git/icons/python/python-original-wordmark.svg" alt="Python" width="60" height="60">
-<img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" alt="春天" width="35" height="35">
-<img src="https://devicons.github.io/devicon/devicon.git/icons/docker/docker-original-wordmark.svg" alt="泊坞窗" width="45" height="40"> 
-<img src="https://www.vectorlogo.zone/logos/kubernetes/kubernetes-icon.svg" alt="库伯内特斯" width="40" height="40">
-<img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" alt="开放式计算机视觉" width="40" height="40"> 
-<img src="https://devicons.github.io/devicon/devicon.git/icons/c/c-original.svg" alt="C" width="40" height="40"> 
-<img src="https://devicons.github.io/devicon/devicon.git/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"> 
-<img src="https://devicons.github.io/devicon/devicon.git/icons/android/android-original-wordmark.svg" alt="安卓" width="40" height="40">
-<img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" alt="胃肠道" width="45" height="45"> 
-<img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/jupyter-notebook/jupyter-notebook.png" alt="IPYNB" width="40" height="40"> 
-<img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/maven/maven.png" alt="迈文" width="40" height="40">
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/heroku/heroku-plain.svg" alt="赫六" width="35" height="35"> 
-<img src="https://www.vectorlogo.zone/logos/microsoft_azure/microsoft_azure-icon.svg" alt="天蓝色的" width="40" height="40"> 
-</p>
+
 <hr>
 <h3 id="my-github-stats"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">🐱我的 Github 统计数据：</font></font></h3>
 <p><img src="https://github-readme-stats.vercel.app/api?username=apoorvtyagi&amp;show_icons=true&amp;title_color=ffc857&amp;icon_color=8ac926&amp;text_color=daf7dc&amp;bg_color=151515&amp;hide=%5B%22stars%22%5D" alt="Apoorv 的 github 统计数据">
