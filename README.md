@@ -38,18 +38,3 @@
 <p><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">⏳</font></font><strong><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">年份进度</font></font></strong><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">{ ███████████████████████████ } 90.17 % 截至 ⏰ 26-11-2020。</font></font></p>
 <hr>
 <h3 id="-my-latest-blog-posts"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">📕 我最新的博客文章：</font></font></h3>
-<!-- BLOG-POST-LIST:START -->
-<ul>
-<li><a href="https://uhaiin.tech/containerize-your-web-application-and-deploy-it-on-kubernetes"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">将您的 Web 应用程序容器化并将其部署在 Kubernetes 上</font></font></a></li>
-<li><a href="https://uhaiin.tech/nlp-textblob"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">使用 TextBlob 尝试常见的 NLP 任务</font></font></a></li>
-<li><a href="https://uhaiin.tech/tail-recursion-in-python"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">python 中的尾递归🐍</font></font></a></li>
-<li><a href="https://uhaiin.tech/scp-command-in-linux"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">Linux 中的 scp 命令💻</font></font></a></li>
-<li><a href="https://uhaiin.tech/different-ways-to-authenticate-your-apis"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">验证 API 的不同方法</font></font></a></li>
-</ul>
-<!-- BLOG-POST-LIST:END -->
-<hr>
-<h3 id="heres-a-joke-for-you"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">😜给你讲个笑话：</font></font></h3>
-<img src="https://readme-jokes.vercel.app/api" alt="笑话卡">
-<hr>
-<p><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">信用：</font></font><a href="https://github.com/uhaiin"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">阿普尔夫·蒂亚吉</font></font></a></p>
-<p><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">最后编辑于：2020 年 11 月 26 日</font></font></p> 
