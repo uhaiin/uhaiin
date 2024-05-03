@@ -1,10 +1,5 @@
-  <h1 id="hi-there"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">你好呀</font></font><img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29px"></h1>
-<p align="center">
-<a href="https://twitter.com/apoorv__tyagi" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="apoorv__tyagi" height="20" width="20"></a>&nbsp;
-<a href="https://linkedin.com/in/uhaiin" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="阿普尔夫特亚吉" height="20" width="20"></a>&nbsp;
-<a href="https://hashnode.com/@uhaiin" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/hashnode.svg" alt="阿普尔夫特亚吉" height="20" width="20"></a>
-<a href="https://www.buymeacoffee.com/uhaiin"><img align="center" alt="给我买杯咖啡" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/buymeacoffee.svg"></a>
-</p>
+<h1 id="hi-there"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">你好呀</font></font><img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29px"></h1>
+
 <p><img src="https://camo.githubusercontent.com/992babdffd8c74a1502de375fbdf7e4d54773242/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f53576f536b4e36447854737a71494b4571762f67697068792e676966" alt=""></p>
 <h3 id="-about-me"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">🤵 关于我：</font></font></h3>
 <ul>
