@@ -1,5 +1,5 @@
 
-<h1 id="hi-there"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">你好呀</font></font><img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29px"></h1>
+<h1 id="hi-there"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">嗨，你好呀</font></font><img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29px"></h1>
 
 <h3 id="-about-me"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">🤵 关于我：</font></font></h3>
 <ul>
